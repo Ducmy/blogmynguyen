@@ -28,13 +28,13 @@
             }
         }
         &-subtitle {
-            color: $color-gray;
+            color: $color-brown;
             @include line-height(1);
             @include margin-bottom(1);
         }
     }
     &__copyright {
-        color: lighten($color-gray, 18%);
+        color: $color-base;
         font-size: $typographic-small-font-size;
     }
 }

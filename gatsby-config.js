@@ -7,27 +7,26 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
-    subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog Mỹ Nguyễn',
+    subtitle: 'Đam mê công nghệ, gaming, sports, ngoại ngữ và du lịch',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Bài viết',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Giới thiệu bản thân',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'Liên hệ',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Nguyễn Đức Mỹ',
       email: '#',
       telegram: '#',
       twitter: '#',
